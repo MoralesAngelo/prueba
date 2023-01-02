@@ -1,0 +1,13 @@
+.containerFooter {
+    background-color: rgb(191, 87, 87);
+    min-height: 11vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerNav {
+    gap: 1rem;
+    display: flex;
+}

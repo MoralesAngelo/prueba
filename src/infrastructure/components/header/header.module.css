@@ -1,0 +1,12 @@
+.containerHeader {
+    background-color: rgb(191, 87, 87);
+    min-height: 20vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    min-height: 69vh;
+    padding: 1rem;
+}
